@@ -1,0 +1,26 @@
+<?php 
+include("inc_home_links_bar.php");
+?>
+
+<?php
+echo "<p>There's 12 Chinese Zodiac animales used to represent years and 2020 is the year of the rat. Zodiac plays a big part in 
+Chinese culture and its used tp determine your fortune, marriage compatability, career fit and even the best time to have a baby.
+Chinese Zodiac originally had something to do with the worship of animals. This zodiac system has been around for more than 2000 years. <br /><br />
+
+Each animal has its own meaning and characteristics. The animals listed in order is the rat, tiger, rabbit, dragon, snake, horse, goat, monkey, rooster, dog, 
+and pig. The zodiac cycle repeats every 12 years. For example; a rats description is that they like to steal food alot which means their household is very wealthy. <br /><br /> 
+Because of their fast reproduction rate, some also pray on its children.
+
+I was born in the year 1998 which makes me a Tiger. Tiger's are independent and have high self-esteems. They enjoy being the leader and protector of average people.
+They love justice and never back down in an argument. Recklessness is their biggest weakness causing them to fail. However they never truly fail. Tigers will always find a way
+to stand back up and succeed in the end. Western Zodiac, unlike Chinese use astrology. Same concept but different meanings. <br /><br />
+
+									Work Citation <br /><br />
+
+				“Chinese Zodiac – Chinese New Year 2020.” Chinese New Year 2018, chinesenewyear.net/zodiac/.</p>";
+?>
+
+
+
+
+
