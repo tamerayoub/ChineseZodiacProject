@@ -60,7 +60,7 @@ foreach ($Phrases as $Phrase) {
             $BadWords[] = $Word;
         }
     }
-}
+
 
 // foreach ($SignNames as $Word) {
 //     $WordArray = BuildLetterCounts($Word);
@@ -87,6 +87,8 @@ foreach ($BadWords as $Word) {
 
 echo "</p>\n";
 echo "<hr />\n";
+
+}
 ?>
 
 </body>

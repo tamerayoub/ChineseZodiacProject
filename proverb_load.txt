@@ -1,0 +1,9 @@
+1	A smile will gain you ten more years of life.	0
+2	A bird does not sing because it has an answer. It sings because it has a song.	1
+3	Talk does not cook rice.	2
+4	A man who cannot tolerate small misfortunes can never accomplish great things.	3
+5	Be not afraid of growing slowly, be afraid only of standing still.	4
+6	An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.	5
+7	A closed mind is like a closed book; just a block of wood.	6
+8	The best time to plant a tree was 20 years ago. The second best time is today.	7
+9	Patience is a bitter plant, but its fruit is sweet.	8

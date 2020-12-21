@@ -1,1 +1,4 @@
-[Insert midterm assessment content here]
+<?php
+include("UploadProverb.php");
+?>
+
